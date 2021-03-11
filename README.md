@@ -5,3 +5,4 @@ Personal Development Log for Geom99
 
 | Task Name     | Date/Time     | Outcomes | Resources  | To Do |
 | ------------- |:-------------:| ---------| ---------- | ----- |
+| Setting up activity log |
