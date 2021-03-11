@@ -3,6 +3,6 @@ Personal Development Log for Geom99
 
 ## Week 7 and 8: AWS EC2 and ArcGIS Server
 
-| Task Name     | Date/Time     | Outcomes | Resources  | To Do |
-| ------------- |:-------------:| ---------| ---------- | ----- |
-| Setting up activity log |
+| Task Name     | Date     | Time   | Outcomes | Resources  | To Do |
+| ------------- |:--------:| ------ | ---------| ---------- | ----- |
+| Setting up activity log | 11/03/2021 
