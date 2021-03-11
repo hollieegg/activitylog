@@ -7,4 +7,5 @@ Task name can correspond to a single log file with detailed notes.
 
 | Task Name     | Date     | Time   | Outcomes | Resources  | To Do |
 | ------------- |:--------:| ------ | ---------| ---------- | ----- |
-| Setting up activity log | 11/03/2021 | 3.32pm to | A log template and a time tracker set up. | Clockify :https://clockify.me/tracker | 
+| Setting up activity log | 11/03/2021 | 3.32pm to 3:54pm | A log template and a time tracker set up. | Clockify :https://clockify.me/tracker | |
+| ArcGIS Server hosted on EC2 in AWS | 11/03/2021 | 4pm - 5pm | Learning how to successfully log into AWS, Start/stop an instance, Use the IPv4 to log in from a local maching to the Virtual desktop and using that to access ArcGIS Server manager. | https://youtu.be/IIBy6d2whEg | To further develop technical understanding of using EC2 with ArcGIS Server. Further exploring. Try using the Duck DNS |
