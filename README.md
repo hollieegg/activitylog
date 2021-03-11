@@ -5,4 +5,4 @@ Personal Development Log for Geom99
 
 | Task Name     | Date     | Time   | Outcomes | Resources  | To Do |
 | ------------- |:--------:| ------ | ---------| ---------- | ----- |
-| Setting up activity log | 11/03/2021 
+| Setting up activity log | 11/03/2021 | 3.32pm to | A log template and a time tracker set up. | Clockify :https://clockify.me/tracker | 
