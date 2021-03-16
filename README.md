@@ -13,4 +13,4 @@ Task name can correspond to a single log file with detailed notes.
 |Publishing to EC2 | 13/03/2021 | 2hr30min | Did not manage to publish to the EC2 or get it working | Class material, and ArcGIS Site | Watch more videos, find more resources and try this task again | 
 |Managing Portal ArcGIS Pro Video| 13/03/2021 | 30min | Getting more familair on how portals work in ArcGIS PRo | https://www.youtube.com/watch?v=KItDcnDQce0&ab_channel=ShawnatGeomaticsFleming | Along with more research try to go back and complete publishing to EC2 | 
 |Duck DNS | 15/03/2021 | 30min | Creating DuckDNS and obtaining an SSL Certificate | https://www.youtube.com/watch?v=V2o07DMyNkc&t=23s | |
-| Publish service to AWS EC2 and troubleshooting | 15/03/2021 | 45min | Troubleshooted, Published from ArcGISPro to AWS EC2, registered the data. | |
+| Publish service to AWS EC2 and troubleshooting | 15/03/2021 | 45min | Troubleshooted, Published from ArcGISPro to AWS EC2, registered the data. | https://enterprise.arcgis.com/en/server/latest/manage-data/windows/registering-your-data-with-arcgis-server-using-manager.htm , Classmates - Jim and Kristine with troubleshooting. | Do it again! |
