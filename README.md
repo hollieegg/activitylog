@@ -29,6 +29,6 @@ Task name can correspond to a single log file with detailed notes.
 | Further Leaflet Exploration | 19/03/2021 | 1hr | Was Able to produce a map using Leaflet, ask for a users location, then reask for this location at a specified time interval | https://leafletjs.com/index.html | Explore how this can be further developed to possibly incorporate live tracking | pg14-15 | 
 |Vertigis Geocortex and Rolta's OnPoint readings/videos | 21/03/2021 | 1hr15min | Basic understanding of Geocortex and Rolts OnPoint |https://gedemo.geocortex.com/Html5Viewer/index.html?viewer=Government and https://www.youtube.com/watch?v=nLtWz9iP3H0 and more listed in Log | If time outside the main focused configurable solutions my group is exploring- complete a Geocortex site on the server Luna. | Pg16-18 |
 | Research- Strava API | 23/03/2021 | 30min | Getting familair with what Strava API is | https://developers.strava.com/docs/getting-started/#account | Keep diving into Strava API and maybe try setting it up | Pg19 | 
-
+| Geocortex - Create A Map | 23/03/2021 | 1hr | Created a Geocortex site on the Luna Server. Learnt the basics to acheive a map. | Class Tutorial | | Pg20-21 | 
 
 
