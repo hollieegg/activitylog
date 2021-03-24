@@ -28,8 +28,7 @@ Task name can correspond to a single log file with detailed notes.
 | Team Meeting | 19/03/2021 | 2hr | Discussion of possible configurable solutions we would like to explore and their benefits to what we would like to acheive | Checklist Tasks | To keep exploring Mapbox and Leaflet in more Depth | N/A | 
 | Further Leaflet Exploration | 19/03/2021 | 1hr | Was Able to produce a map using Leaflet, ask for a users location, then reask for this location at a specified time interval | https://leafletjs.com/index.html | Explore how this can be further developed to possibly incorporate live tracking | pg14-15 | 
 |Vertigis Geocortex and Rolta's OnPoint readings/videos | 21/03/2021 | 1hr15min | Basic understanding of Geocortex and Rolts OnPoint |https://gedemo.geocortex.com/Html5Viewer/index.html?viewer=Government and https://www.youtube.com/watch?v=nLtWz9iP3H0 and more listed in Log | If time outside the main focused configurable solutions my group is exploring- complete a Geocortex site on the server Luna. | Pg16-18 |
-| Research- Strava API | 23/03/2021 | 30min | Getting familair with what Strava API is | 
-https://developers.strava.com/docs/getting-started/#account | Keep diving into Strava API and maybe try setting it up | Pg19 | 
+| Research- Strava API | 23/03/2021 | 30min | Getting familair with what Strava API is | https://developers.strava.com/docs/getting-started/#account | Keep diving into Strava API and maybe try setting it up | Pg19 | 
 
 
 
