@@ -37,4 +37,4 @@ Task name can correspond to a single log file with detailed notes.
 | Task Name     | Date     | Time   | Outcomes | Resources  | To Do | Log Page |
 | ------------- |:--------:| ------ | ---------| ---------- | ----- | ---------|
 | Mapbox Route Animation | 23/03/2021 | 1hr10min |A customized tutorial example of animation being used to make a polyline move as in realtime. https://hollieegg.github.io/activitylog/exploration/RealTimeGeoLine.html | https://docs.mapbox.com/mapbox-gl-js/example/live-update-feature/ | Incorporate a GeoJSON of a customized route | Pg22 |
-| Mapbox Route Animation | 23/03/2021 |  | Loading a customized GeoJSON into previous animated Line example | GeoJSON created by Jennifer D | Pg23 |
+| Mapbox Route Animation | 23/03/2021 |  | Loading a customized GeoJSON into previous animated Line example | Get the animation working for this GeoJSON | GeoJSON created by Jennifer D | Pg23 |
