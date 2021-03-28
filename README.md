@@ -32,3 +32,7 @@ Task name can correspond to a single log file with detailed notes.
 | Geocortex - Create A Map | 23/03/2021 | 1hr | Created a Geocortex site on the Luna Server. Learnt the basics to acheive a map. | Class Tutorial | | Pg20-21 | 
 
 
+## Week 10: Individual research for group project
+
+| Task Name     | Date     | Time   | Outcomes | Resources  | To Do | Log Page |
+| ------------- |:--------:| ------ | ---------| ---------- | ----- | ---------|
