@@ -22,7 +22,7 @@ center: [0, 0],
 zoom: 2
 });
  
-var radius = 20;
+var radius = 10;
  
 function pointOnCircle(angle) {
 return {
@@ -32,6 +32,7 @@ return {
 }
  
 map.on('load', function () {
+    
 // Add a source and layer displaying a point which will be animated in a circle.
 map.addSource('point', {
 'type': 'geojson',
