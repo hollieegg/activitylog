@@ -47,6 +47,6 @@ Task name can correspond to a single log file with detailed notes.
 | Task Name     | Date     | Time   | Outcomes | Resources  | To Do | Log Page |
 | ------------- |:--------:| ------ | ---------| ---------- | ----- | ---------|
 |Mapbox Discussion | 31/03/2021 | 1hr15 | Discussions and ideas with a fellow peer group on mapbox. | Jim, Chris and Kristine | Keep in touch to see hoe their Mapbox implementation progresses | Pg28 | 
-| Webpage Design | 03/04/2021 | 6hr | Research and design for website template with HTML and CSS to showcase project. | W3Schools | Continue working on this. | Pg29-31 |
+| Webpage Design | 03/04/2021 | 6hr | Research and design for website template with HTML and CSS to showcase project. | W3Schools | Continue working on this. Fix image and resizing issue.| Pg29-31 |
 | Webpage Design | 05/06/2021 | 3hr | added content to webpage to explore the look and wether this design would work. | N/a | Show to the group (7th April) for feedback and wether to move forward with this look. | pg30 | 
-| Storytelling Mapbox | 06/04/2021 | 1hr | Created an example storrytelling map with scrolling features and two chapters with animation. | https://github.com/mapbox/storytelling | add more chapters in and explore polylines in this or GeoJSON | Pg32-34 |
+| Storytelling Mapbox | 06/04/2021 | 1hr | Created an example storrytelling map with scrolling features and two chapters with animation. | https://github.com/mapbox/storytelling | Add more chapters in and explore polylines in this or GeoJSON | Pg32-34 |
