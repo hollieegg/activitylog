@@ -41,3 +41,12 @@ Task name can correspond to a single log file with detailed notes.
 | Animating Polylines Research | 28/03/2021 | 2hr | Better understanding of the basic ways to animate lines and point within mapbox. | https://docs.mapbox.com/ All individual pages and examples listed in the detailed notes | Follow tutorials and start exporing | Pg24-26 |
 |Animating Tutorials | 28/03/2021 | 1hr45min | Completed several tutorials and hosted on github. Some Customization to these tutorials | https://docs.mapbox.com/  All tutorial links refernced in corresponding notes. | Take these tutorials further and really pull them apart to build upon them | Pg25 | 
 | Meeitng with Cient | 30/03/2021 | 1hr | Looking and discussing animated options and alternatives for live tracking | Week 10 tutorials and research | take on feedback and incorporate it in next weeks work | N/A |
+
+## Week 11: Individual work Towards Group Project (Web 1)
+
+| Task Name     | Date     | Time   | Outcomes | Resources  | To Do | Log Page |
+| ------------- |:--------:| ------ | ---------| ---------- | ----- | ---------|
+|Mapbox Discussion | 31/03/2021 | 1hr15 | Discussions and ideas with a fellow peer group on mapbox. | Jim, Chris and Kristine | Keep in touch to see hoe their Mapbox implementation progresses | Pg28 | 
+| Webpage Design | 03/04/2021 | 6hr | Research and design for website template with HTML and CSS to showcase project. | W3Schools | Continue working on this. | Pg29-31 |
+| Webpage Design | 05/06/2021 | 3hr | added content to webpage to explore the look and wether this design would work. | N/a | Show to the group (7th April) for feedback and wether to move forward with this look. | pg30 | 
+| Storytelling Mapbox | 06/04/2021 | 1hr | Created an example storrytelling map with scrolling features and two chapters with animation. | https://github.com/mapbox/storytelling | add more chapters in and explore polylines in this or GeoJSON | Pg32-34 |
