@@ -50,3 +50,11 @@ Task name can correspond to a single log file with detailed notes.
 | Webpage Design | 03/04/2021 | 6hr | Research and design for website template with HTML and CSS to showcase project. | W3Schools | Continue working on this. Fix image and resizing issue.| Pg29-31 |
 | Webpage Design | 05/06/2021 | 3hr | added content to webpage to explore the look and wether this design would work. | N/a | Show to the group (7th April) for feedback and wether to move forward with this look. | pg30 | 
 | Storytelling Mapbox | 06/04/2021 | 1hr | Created an example storrytelling map with scrolling features and two chapters with animation. | https://github.com/mapbox/storytelling | Add more chapters in and explore polylines in this or GeoJSON | Pg32-34 |
+
+## Week 12: Individual work Towards Group Project (Web 1)
+
+| Task Name     | Date     | Time   | Outcomes | Resources  | To Do | Log Page |
+| ------------- |:--------:| ------ | ---------| ---------- | ----- | ---------|
+|Design and Building Website Template | 11/04/2021 | 7hr15m | A layout and design template created for all content of our group's work to be added. | See Log | Research and Implement JS options | Pg36-38 |
+| JavaScript and Design Research | 11/04/2021 | 1hr | Ideas to implement JS into Navbarand other areas of the site | Previous work and W3 Schools | Implement JS dropdown Menu | pg35, pg39-41 |
+| Building Site | 12/04/2021 | 4hr45m | Implemented JS Navbar and Layout options for text/maps | See Log | Continue implementing this layout for all content | Pg41-43 |
