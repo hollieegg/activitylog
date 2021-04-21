@@ -58,3 +58,14 @@ Task name can correspond to a single log file with detailed notes.
 |Design and Building Website Template | 11/04/2021 | 7hr15m | A layout and design template created for all content of our group's work to be added. | See Log | Research and Implement JS options | Pg36-38 |
 | JavaScript and Design Research | 11/04/2021 | 1hr | Ideas to implement JS into Navbarand other areas of the site | Previous work and W3 Schools | Implement JS dropdown Menu | pg35, pg39-41 |
 | Building Site | 12/04/2021 | 4hr45m | Implemented JS Navbar and Layout options for text/maps | See Log | Continue implementing this layout for all content | Pg41-43 |
+
+## Week 13 tp 14: Group Project and Finishing website (Web 1)
+
+| Task Name     | Date     | Time   | Outcomes | Resources  | To Do | Log Page |
+| ------------- |:--------:| ------ | ---------| ---------- | ----- | ---------|
+| Developing Website | 14/04/2021 | 5hr15 | Layout of site finalized | My team. Also See Log | Continue to tweak with CSS changes | pg43-45 |
+| Tweaking Website | 16/04/2021 | 3hr | Tidying up CSS and content | My team. Also See Log | work more with the CSS and tidy up any code/comments | pg43-45 |
+| Final Touches | 16/04/2021 | 2hr30 | Adding Final touches to the project site | My team. Also See Log | check for errors and bugs ect. | pg43-45 |
+| Final Touches and Packaging/ finalizing with team | 19/04/2021 | 5hr45 | A finished website demonstrating our Geom99 project | My team.  | Reflect | pg43-45 |
+| Project Reflection | 20/04/2021 | 1hr30 | Reflecting on the highlights and what I learned | Myself! | Take all that i have learned and the skills i have developed into furture projects.| pg46 |
+
